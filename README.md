@@ -20,7 +20,7 @@ I am passionate about leveraging data to solve real-world problems. My journey i
 
 ---
 
-🌟 **Explore My Work!**
+## 🌟 Explore My Work!
 
 I've worked on various projects in data analysis, machine learning, and more.  
 🔗 [**View My Full Portfolio on Bento**](https://bento.me/winda-apriliyanti) to see a collection of what I’ve been working on recently!
